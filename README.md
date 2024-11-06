@@ -29,8 +29,8 @@ Tenho me dedicado a aprimorar minhas habilidades em **automação de testes** e 
 ### 🔗 Links
 
 - **GitHub**: [Seu GitHub](https://github.com/karen0101sousa)
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- **Portfólio**: [Seu Portfólio](https://seu-portfolio.com)
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/karendavila21)
+- **Portfólio**: [Seu Portfólio](https://github.com/karen0101sousa?tab=repositories)
 
 ### 💬 Vamos conversar?
 
