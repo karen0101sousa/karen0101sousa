@@ -37,6 +37,6 @@ Tenho me dedicado a aprimorar minhas habilidades em **automação de testes** e 
 Se você tem alguma dúvida, sugestão ou quer trocar ideias sobre **qualidade de software**, **automação de testes**, ou qualquer outra tecnologia, fique à vontade para entrar em contato!
 
 ---
-![Karen GitHub stats](https://github-readme-stats.vercel.app/api?username=karen0101sousa&show_icons=true&theme=radical)
+![Karen GitHub stats](https://github-readme-stats.vercel.app/api?username=karen0101sousa&show_icons=true&theme=dark)
 
 > **"Nada na vida deve ser temido, somente compreendido. Agora é hora de compreender mais para temer menos." — Marie Curie**
