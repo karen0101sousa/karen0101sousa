@@ -7,7 +7,7 @@ Tenho me dedicado a aprimorar minhas habilidades em **automação de testes** e 
 
 ### 📚 O que eu estou estudando?
 
-- **Automação de Testes**: Tenho me aprofundado em ferramentas como **[Cypress](https://www.cypress.io/)** e **[Playwright](https://playwright.dev/)** para automação de testes de frontend.
+- **Automação de Testes**: Tenho me aprofundado em ferramentas como **[Cypress](https://www.cypress.io/)** e **[Playwright](https://playwright.dev/)** para automação de testes.
 - **JavaScript**: Aprofundando meus conhecimentos em **JavaScript** para escrever scripts e melhorar a automação dos testes.
 - **Insomnia**: Utilizando **Insomnia** para testar e validar APIs de maneira mais eficaz.
 - **GitHub Actions**: Explorando as possibilidades de **CI/CD** com **GitHub Actions** para automação de pipelines e integração contínua.
