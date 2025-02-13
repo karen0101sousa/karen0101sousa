@@ -15,10 +15,10 @@ Tenho me dedicado a aprimorar minhas habilidades em **automação de testes** e 
 ### ⚙️ Habilidades Técnicas
 
 - **Automação de Testes**: Cypress, Playwright
-- **Linguagens**: JavaScript, HTML, CSS
-- **Ferramentas de API**: Insomnia
+- **Linguagens**: JavaScript, Java e Python
+- **Ferramentas de API**: Insomnia, Postman
 - **Controle de Versão**: Git, GitHub
-- **CI/CD**: GitHub Actions
+- **CI/CD**: GitHub Actions, Docker, Jenkins e Kubernetes
 - **Metodologias**: Agile, Scrum
 
 ### 🌱 O que estou aprendendo agora?
