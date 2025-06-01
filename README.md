@@ -1,8 +1,8 @@
 # Olá, sou a Karen! 👋
 
-## Analista de Qualidade Júnior | QA Junior 
+## Analista de Qualidade Pleno | QA Pleno 
 
-Atualmente, atuo como **Analista de Qualidade Júnior**, com foco em **saúde suplementar** 🏥. 
+Atualmente, atuo como **Analista de Qualidade Pleno**, com foco em **saúde suplementar** 🏥. 
 Tenho me dedicado a aprimorar minhas habilidades em **automação de testes** e estou sempre buscando melhorar a qualidade dos sistemas e processos através da tecnologia.
 
 ### 📚 O que eu estou estudando?
